@@ -19,9 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="palindrome.h" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="palindrome.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
