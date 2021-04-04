@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TempReduce", "TempReduce\Te
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queue", "Queue\Queue.vcxproj", "{B3966309-4028-4C9B-925E-92C921308071}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lotto", "Lotto\Lotto.vcxproj", "{2DFB3474-2D08-40A6-B5FE-E3767D57F402}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{B3966309-4028-4C9B-925E-92C921308071}.Release|x64.Build.0 = Release|x64
 		{B3966309-4028-4C9B-925E-92C921308071}.Release|x86.ActiveCfg = Release|Win32
 		{B3966309-4028-4C9B-925E-92C921308071}.Release|x86.Build.0 = Release|Win32
+		{2DFB3474-2D08-40A6-B5FE-E3767D57F402}.Debug|x64.ActiveCfg = Debug|x64
+		{2DFB3474-2D08-40A6-B5FE-E3767D57F402}.Debug|x64.Build.0 = Debug|x64
+		{2DFB3474-2D08-40A6-B5FE-E3767D57F402}.Debug|x86.ActiveCfg = Debug|Win32
+		{2DFB3474-2D08-40A6-B5FE-E3767D57F402}.Debug|x86.Build.0 = Debug|Win32
+		{2DFB3474-2D08-40A6-B5FE-E3767D57F402}.Release|x64.ActiveCfg = Release|x64
+		{2DFB3474-2D08-40A6-B5FE-E3767D57F402}.Release|x64.Build.0 = Release|x64
+		{2DFB3474-2D08-40A6-B5FE-E3767D57F402}.Release|x86.ActiveCfg = Release|Win32
+		{2DFB3474-2D08-40A6-B5FE-E3767D57F402}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
