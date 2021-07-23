@@ -25,7 +25,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fast sort", "fast sort\fast
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Max", "Max\Max.vcxproj", "{4EC94223-C42B-4211-9F33-F546FC8BA821}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prata (12.5)", "Prata (12.5)\Prata (12.5).vcxproj", "{8A808296-0BAF-43D3-BB76-65D2323D5C53}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prata (12.6)", "Prata (12.6)\Prata (12.6).vcxproj", "{8A808296-0BAF-43D3-BB76-65D2323D5C53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
